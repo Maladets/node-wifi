@@ -1,0 +1,22 @@
+{
+  "name": "wifi",
+  "version": "1.0.0",
+  "description": "knock to a dog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maladets/node-wifi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maladets/node-wifi/issues"
+  },
+  "homepage": "https://github.com/Maladets/node-wifi#readme",
+  "dependencies": {
+    "node-wifi": "^2.0.12"
+  }
+}
